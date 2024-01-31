@@ -10,12 +10,32 @@
 - 📝 I regularly write articles on **https://medium.com/@madhu-udeshika**
 - 📄 Know about my experiences **https://drive.google.com/file/d/17sXZAhI6uBG8doo-GuQ6uXU8SVcYv7FK/view?usp=drive_link**
 
-<div> <a href="https://www.linkedin.com/in/madhushi-udeshika" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://github.com/MadhushiUdeshika" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href = "mailto:pkmudeshika@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div><h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/madhushi-udeshika" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="madhushi-udeshika" height="30" width="40" /></a><a href="https://fb.com/madhushi.udeshika" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="madhushi.udeshika" height="30" width="40" /></a><a href="https://medium.com/@madhu-udeshika" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/medium.svg" alt="@madhu-udeshika" height="30" width="40" /></a></p>
+
+<div>
+  <a href="https://github.com/MadhushiUdeshika" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub" style="vertical-align: middle; margin-right: 8px;  border: none;">
+  </a>
+
+  <a href="mailto:pkmudeshika@gmail.com">
+    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" style="vertical-align: middle; margin-right: 8px;  border: none;">
+  </a>
+
+  <a href="https://linkedin.com/in/madhushi-udeshika" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" style="vertical-align: middle; margin-right: 8px;  border: none;">
+  </a>
+
+  <a href="https://fb.com/madhushi.udeshika" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/facebook.png" alt="Facebook" style="vertical-align: middle; margin-right: 8px;  border: none;">
+  </a>
+
+  <a href="https://medium.com/@madhu-udeshika" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/medium-logo.png" alt="Medium" style="vertical-align: middle; margin-right: 8px; border: none;">
+  </a>
+</div>
+
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
