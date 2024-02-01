@@ -6,7 +6,7 @@
 -->
 
 - 📫 How to reach me **pkmudeshika@gmail.com**
-- 👨‍💻 All of my projects are available at **https://madhushiudeshika.github.io/Portfolio/**
+- 👨‍💻 All of my projects are available at **https://madhu-udeshika.netlify.app/**
 - 📝 I regularly write articles on **https://medium.com/@madhu-udeshika**
 - 📄 Know about my experiences **https://drive.google.com/file/d/17sXZAhI6uBG8doo-GuQ6uXU8SVcYv7FK/view?usp=drive_link**
 
