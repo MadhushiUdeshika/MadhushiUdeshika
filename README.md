@@ -4,13 +4,16 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MadhushiUdeshika&label=Profile%20views&color=0e75b6&style=flat" alt="MadhushiUdeshika" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MadhushiUdeshika&theme=radical" alt="MadhushiUdeshika" /></a> </p>
 -->
+<h3 align="left">💫 About Me:</h3>
+🔭 I'm currently working on ERP software development project.<br>
+🌱 I'm currently learning MERN stack.<br><br>
 
 - 📫 How to reach me **pkmudeshika@gmail.com**
 - 👨‍💻 All of my projects are available at **https://madhu-udeshika.netlify.app/**
 - 📝 I regularly write articles on **https://medium.com/@madhu-udeshika**
 - 📄 Know about my experiences **https://drive.google.com/file/d/17sXZAhI6uBG8doo-GuQ6uXU8SVcYv7FK/view?usp=drive_link**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🔗 Connect with me:</h3>
 <p align="left">
 
 <div>
@@ -37,7 +40,7 @@
 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">💻 Languages and Tools:</h3>
 <p align="left">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/Scikit_learn_logo_small.svg" alt="Scikit" width="40" height="40"/>
@@ -63,14 +66,14 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
 </p>
 
-<h3 align="left">Stars</h3>
+<h3 align="left">🌟 Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadhushiUdeshika&layout=compact&theme=radical" alt=MadhushiUdeshika />
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=MadhushiUdeshika&show_icons=true&locale=en&theme=radical" alt="MadhushiUdeshika" /></p>
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MadhushiUdeshika&theme=radical" alt="MadhushiUdeshika" /></p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">📊 Statistics</h3>
 <div align="center">
 <a href="https://github.com/MadhushiUdeshika">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MadhushiUdeshika&theme=radical" height="180em" />
