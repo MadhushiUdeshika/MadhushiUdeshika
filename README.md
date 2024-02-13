@@ -6,7 +6,7 @@
 -->
 <h3 align="left">💫 About Me:</h3>
 🔭 I'm currently working on ERP software development project.<br>
-🌱 I'm currently learning MERN stack.<br><br>
+🌱 I'm currently learning more on REACT.<br><br>
 
 - 📫 How to reach me **pkmudeshika@gmail.com**
 - 👨‍💻 All of my projects are available at **https://madhu-udeshika.netlify.app/**
